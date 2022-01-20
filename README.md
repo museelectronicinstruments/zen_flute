@@ -3,7 +3,7 @@ FACTORY PROGRAMS
 moogmodelzen: moog type synthesizer firmware for the zen flute hardware (www.museelectronicinstruments.com)
 using the teensy audio library.  This is what arrives when the Zen flute is shipped. 
 
-ZenGUI: programming interface for the moogmodelzen firmware (Processing Language) that lets you change the programming of the Zen flute without altering the firmware.  Run this on a separate computer connected to the Zen Flute.  You will need do download Processing to compile this.
+ZenGUI: programming interface for the moogmodelzen firmware (Processing Language) that lets you change the programming of the Zen flute without altering the firmware.  Run this on a separate computer connected to the Zen Flute.  You will need to download Processing to compile this.
 
 EXPERIMENTAL PROGRAMS
 physicalmodelzen: physically modeled flute firmware based on Faust programming language
