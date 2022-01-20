@@ -1,4 +1,6 @@
 # zen_flute
+This repository holds copies of firmware programs usable in the Zen Flute and graphical user interface programs for modifying the sounds and operation of the Zen flute.  The Zen flute is a musical instrument that controls pitch using a "whistle interface" which does not require whistling (but is a bit like whistling) and fairly intuitive.  Really it's pretty hard to explain.  More information is at www.museelectronicinstruments.com. 
+
 FACTORY PROGRAMS
 moogmodelzen: moog type synthesizer firmware for the zen flute hardware (www.museelectronicinstruments.com)
 using the teensy audio library.  This is what arrives when the Zen flute is shipped. 
